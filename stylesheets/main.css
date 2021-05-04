@@ -1,0 +1,58 @@
+body{
+
+  background-image: url(/Users/alexferencz/turing/mod_2/static_challenges/images/1.jpg);
+  background-size:1200px 600px; /* or contain depending on what you want */
+  background-position: center center;
+  background-repeat: no-repeat;
+
+  /* background-color:black;opacity:0.4 */
+
+}
+  h1 {
+    width: 1000px;
+  background-color: black;
+  font-size: 25px;
+  font-family:sans-serif;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color:white
+}
+h2{
+  width: 1000px;
+  font-size: 15px;
+  font-family:sans-serif;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  color:white;
+  background-color:gray;opacity:0.4
+
+}
+h3{
+  width: 1000px;
+  background-color:#b35900;
+  font-size: 10px;
+  font-family:sans-serif;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color:white
+}
+p{
+  width: 1000px;
+  color:white;
+  font-size: 15px;
+  padding-left: 20px;
+  background-color:gray;opacity:0.4
+
+
+}
+img{
+  max-width: 200px;
+  height: 200px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
